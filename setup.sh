@@ -30,5 +30,6 @@ cp -r ./colors ~/.vim/colors
 # .vimrc
 cp ./vimrc ~/.vimrc
 
+# test
 
 
